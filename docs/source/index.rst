@@ -6,9 +6,32 @@
 Welcome to workshop nsu's documentation!
 ========================================
 
+Table of Contents
+=================
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+
+   index.rst
+
+   code-of-conduct.rst
+
+   jetstream-login.rst
+
+   environment_softwares.rst
+
+   assembly.rst
+
+   annotation.rst
+
+   mapping_SNPcalling.rst
+
+   phylogenomics.rst
+
+   GWAS_linkage_QTL.rst
+
+   gen_flow_selection.rst
 
 
 
