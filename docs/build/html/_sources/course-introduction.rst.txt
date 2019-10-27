@@ -89,14 +89,14 @@ Day 1: October 28 (Mon)	**Overview 1: Environment and software**
 We will introduce the Unix operating system, Python, and commercial software and pipelines. 
 
 :9\:00:	 	Introduction, discussion and course logistics 
-:10\:00:		**Tutorial**: Introduction to Cloud computing 
-:10\:30:		Break
-:11\:00:		**Tutorial**: Introduction to Unix 
-:12\:30:		Lunch break
-:1\:30:		**Tutorial**: Introduction to Python I (Elizaveta Shmakova)
-:2\:30:		**Tutorial**: Introduction to Python II 
-:3\:30:		Break
-:4\:00:		**Lecture**: Introduction to software and pipelines
+:10:00:		**Tutorial**: Introduction to Cloud computing 
+:10:30:		Break
+:11:00:		**Tutorial**: Introduction to Unix 
+:12:30:		Lunch break
+:1:30:		**Tutorial**: Introduction to Python I (Elizaveta Shmakova)
+:2:30:		**Tutorial**: Introduction to Python II 
+:3:30:		Break
+:4:00:		**Lecture**: Introduction to software and pipelines
 
 Day 2: October 29 (Tue) 	**Genome assembly 1: Assembly principles and methods**
 
