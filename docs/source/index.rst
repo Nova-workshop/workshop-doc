@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to workshop nsu's documentation!
+Welcome to Basic Bioinformatics for Genome Assembly and Evolutionary Genomics workshop's documentation!
 ========================================
 
 Table of Contents
@@ -14,6 +14,8 @@ Table of Contents
    :numbered:
 
    index.rst
+
+   course-introduction.rst
 
    code-of-conduct.rst
 
