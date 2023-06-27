@@ -22,10 +22,10 @@ Organizers
 
 Instructors
 -----------
-| *Klaus-Peter Koepfli*, Ph.D., Conservation Biologist, Center for Species Survival, Smithsonian Conservation Biology Institute
-| *Hao Meng*, Ph.D. Candidate, Center for Life Sciences, Peking University
 | *Xin Sun*, Ph.D. Candidate, Center for Life Sciences, Peking University
+| *Hao Meng*, Ph.D. Candidate, Center for Life Sciences, Peking University
 | *Shu-Jin Luo*, Ph.D., Associate Professor, School of Life Sciences, Peking University
+| *Klaus-Peter Koepfli*, Ph.D., Conservation Biologist, Center for Species Survival, Smithsonian Conservation Biology Institute
 
 Workshop Goals
 --------------
